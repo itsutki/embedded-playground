@@ -18,6 +18,7 @@ This repo serves as my learning lab and portfolio while building real hardware-b
 | Project | Description |
 |--------|-------------|
 | [toggle_button_led](./arduino/toggle_button_led/) | LED toggled on button press with debounce logic |
+| [toggle_led_3mode](./arduino/toggle_led_3mode/) | 3-mode LED control: ON, OFF, and BLINK using separate buttons |
 
 More projects coming soon...
 
