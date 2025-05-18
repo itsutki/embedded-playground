@@ -19,6 +19,7 @@ This repo serves as my learning lab and portfolio while building real hardware-b
 |--------|-------------|
 | [toggle_button_led](./arduino/toggle_button_led/) | LED toggled on button press with debounce logic |
 | [toggle_led_3mode](./arduino/toggle_led_3mode/) | 3-mode LED control: ON, OFF, and BLINK using separate buttons |
+| [fsm_led_patterns](./arduino/fsm_led_patterns/) | FSM-based LED pattern system with 4 modes and single-button control |
 
 More projects coming soon...
 
